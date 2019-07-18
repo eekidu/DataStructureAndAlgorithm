@@ -1,6 +1,6 @@
 package com.kee.leetcode.ploblems;
 
-import com.kee.leetcode.ploblems.pojo.ListNode;
+import com.kee.pojo.ListNode;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
 package com.kee.leetcode.ploblems.num206;
 
-import com.kee.leetcode.ploblems.pojo.ListNode;
+import com.kee.pojo.ListNode;
 
 /**
  * 反转单链表

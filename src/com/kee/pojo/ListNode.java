@@ -1,7 +1,7 @@
-package com.kee.leetcode.ploblems.pojo;
+package com.kee.pojo;
 
 /**
- * 单链
+ * 单链表
  */
 public class ListNode {
     public int val;
@@ -24,4 +24,6 @@ public class ListNode {
         }
         return stringBuilder.toString();
     }
+
+
 }
