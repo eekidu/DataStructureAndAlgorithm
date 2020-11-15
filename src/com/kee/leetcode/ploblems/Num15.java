@@ -1,4 +1,4 @@
-package com.kee.leetcode.ploblems.num15;
+package com.kee.leetcode.ploblems;
 
 import java.util.*;
 
@@ -46,7 +46,25 @@ public class Num15 {
         return resultList;
     }
 
+
+    @Override
+    public boolean equals(Object obj) {
+        return true;
+    }
+
+    @Override
+    public int hashCode() {
+        return 10;
+    }
+
     public static void main(String[] args) {
 
+        final char[] tem = new char[]{'A', 'B', 'C'};
+        tem[1] = 'D';
+        System.out.println(tem);
+
     }
+
+
+
 }
